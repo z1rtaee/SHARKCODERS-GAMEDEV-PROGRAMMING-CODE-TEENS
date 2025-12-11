@@ -1,0 +1,170 @@
+name: "main"
+instances {
+  id: "chao"
+  prototype: "/main/chao.go"
+  position {
+    x: 0.19801204
+    y: 0.25558403
+  }
+}
+instances {
+  id: "chao1"
+  prototype: "/main/chao.go"
+  position {
+    x: 29.198011
+    y: 0.255584
+  }
+}
+instances {
+  id: "chao2"
+  prototype: "/main/chao.go"
+  position {
+    x: 58.198013
+    y: 0.255584
+  }
+}
+instances {
+  id: "chao3"
+  prototype: "/main/chao.go"
+  position {
+    x: 203.19801
+    y: 0.255584
+  }
+}
+instances {
+  id: "chao4"
+  prototype: "/main/chao.go"
+  position {
+    x: 173.19801
+    y: 0.255584
+  }
+}
+instances {
+  id: "chao5"
+  prototype: "/main/chao.go"
+  position {
+    x: 145.19801
+    y: 0.255584
+  }
+}
+instances {
+  id: "chao6"
+  prototype: "/main/chao.go"
+  position {
+    x: 117.19801
+    y: 0.255584
+  }
+}
+instances {
+  id: "chao7"
+  prototype: "/main/chao.go"
+  position {
+    x: 89.19801
+    y: 0.255584
+  }
+}
+instances {
+  id: "chao8"
+  prototype: "/main/chao.go"
+  position {
+    x: 404.198
+    y: 0.255584
+  }
+}
+instances {
+  id: "chao9"
+  prototype: "/main/chao.go"
+  position {
+    x: 372.198
+    y: 0.255584
+  }
+}
+instances {
+  id: "chao10"
+  prototype: "/main/chao.go"
+  position {
+    x: 344.198
+    y: 0.255584
+  }
+}
+instances {
+  id: "chao11"
+  prototype: "/main/chao.go"
+  position {
+    x: 315.198
+    y: 0.255584
+  }
+}
+instances {
+  id: "chao12"
+  prototype: "/main/chao.go"
+  position {
+    x: 287.198
+    y: 0.255584
+  }
+}
+instances {
+  id: "chao13"
+  prototype: "/main/chao.go"
+  position {
+    x: 261.198
+    y: 0.255584
+  }
+}
+instances {
+  id: "chao14"
+  prototype: "/main/chao.go"
+  position {
+    x: 232.19801
+    y: 0.255584
+  }
+}
+instances {
+  id: "player"
+  prototype: "/main/player.go"
+  position {
+    x: 15.667896
+    y: 39.22824
+  }
+}
+instances {
+  id: "chao15"
+  prototype: "/main/chao.go"
+  position {
+    x: 203.19801
+    y: 0.255584
+  }
+}
+instances {
+  id: "chao16"
+  prototype: "/main/chao.go"
+  position {
+    x: 436.198
+    y: 0.255584
+  }
+}
+instances {
+  id: "vilao"
+  prototype: "/main/vilao.go"
+  position {
+    x: 286.3867
+    y: 46.79139
+  }
+}
+instances {
+  id: "interface"
+  prototype: "/main/interface.go"
+  position {
+    x: -109.05383
+    y: -350.97717
+  }
+}
+instances {
+  id: "item"
+  prototype: "/main/item.go"
+  position {
+    x: 411.3505
+    y: 46.179615
+  }
+}
+scale_along_z: 0

@@ -1,0 +1,13 @@
+images {
+  image: "/main/assets/Sprites/Ch\303\243o.png.png"
+}
+images {
+  image: "/main/assets/Sprites/Item.png.png"
+}
+images {
+  image: "/main/assets/Sprites/Jogador.png.png"
+}
+images {
+  image: "/main/assets/Sprites/Vil\303\243o.png.png"
+}
+extrude_borders: 2
