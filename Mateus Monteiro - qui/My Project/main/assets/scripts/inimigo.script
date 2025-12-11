@@ -1,0 +1,20 @@
+go.property("speed", 100)
+go.property("left_limit", 1)--pode mudar
+go.property("right_limit", 266)--pode mudar
+
+function init(self)
+	self.dir = 1
+end
+
+function update(self, dt)
+	local position = go.get_position()
+	position.x = position.x + self.speed * self.dir * dt
+
+	if position.x < self.left_limit then
+		self.dir = 1
+	elseif position.x > self.right_limit then
+		self.dir = -1
+	end
+
+	go.set_position(position)
+end

@@ -1,0 +1,136 @@
+name: "main"
+instances {
+  id: "floor1"
+  prototype: "/main/floor.go"
+  position {
+    x: 49.304523
+    y: 15.9654
+  }
+}
+instances {
+  id: "floor2"
+  prototype: "/main/floor.go"
+  position {
+    x: 81.30453
+    y: 15.9654
+  }
+}
+instances {
+  id: "floor3"
+  prototype: "/main/floor.go"
+  position {
+    x: 112.30453
+    y: 15.9654
+  }
+}
+instances {
+  id: "floor4"
+  prototype: "/main/floor.go"
+  position {
+    x: 143.30452
+    y: 15.9654
+  }
+}
+instances {
+  id: "floor5"
+  prototype: "/main/floor.go"
+  position {
+    x: 174.30452
+    y: 15.965401
+  }
+  scale3 {
+    x: 0.88562
+    y: 1.073746
+  }
+}
+instances {
+  id: "floor6"
+  prototype: "/main/floor.go"
+  position {
+    x: 217.30453
+    y: 28.9654
+  }
+  scale3 {
+    x: 1.316738
+    y: 1.383778
+    z: 3.086469
+  }
+}
+instances {
+  id: "floor13"
+  prototype: "/main/floor.go"
+  position {
+    x: 49.304523
+    y: 15.9654
+  }
+}
+instances {
+  id: "floor14"
+  prototype: "/main/floor.go"
+  position {
+    x: 81.30453
+    y: 15.9654
+  }
+}
+instances {
+  id: "floor15"
+  prototype: "/main/floor.go"
+  position {
+    x: 112.30453
+    y: 15.9654
+  }
+}
+instances {
+  id: "PLAYER"
+  prototype: "/main/PLAYER.go"
+  position {
+    x: 72.03213
+    y: 22.24855
+  }
+  scale3 {
+    x: 1.537189
+    y: 1.322416
+  }
+}
+instances {
+  id: "inimigo"
+  prototype: "/inimigo.go"
+  position {
+    x: 135.33592
+    y: 23.411526
+  }
+  scale3 {
+    x: 1.371224
+    y: 1.42683
+  }
+}
+instances {
+  id: "floor"
+  prototype: "/main/floor.go"
+  position {
+    x: 21.016157
+    y: 16.937172
+  }
+  scale3 {
+    x: 1.25597
+    y: 1.079629
+    z: 0.818133
+  }
+}
+instances {
+  id: "interface"
+  prototype: "/main/interface.go"
+  position {
+    x: 59.335205
+    y: 35.11751
+  }
+  rotation {
+    y: -0.08343751
+    w: 0.996513
+  }
+  scale3 {
+    x: 0.109881
+    y: 0.1155
+  }
+}
+scale_along_z: 0
