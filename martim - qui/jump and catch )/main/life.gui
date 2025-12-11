@@ -1,0 +1,58 @@
+script: "/main/assets/scripts/life.gui_script"
+fonts {
+  name: "always_on_top"
+  font: "/builtins/fonts/debug/always_on_top.font"
+}
+nodes {
+  position {
+    x: 66.0
+    y: 1433.0
+  }
+  scale {
+    x: 8.583444
+    y: 8.487792
+    z: 2.266667
+  }
+  size {
+    x: 200.0
+    y: 100.0
+  }
+  color {
+    x: 0.6
+    y: 0.4
+    z: 0.0
+  }
+  type: TYPE_TEXT
+  text: "LIVES: 3"
+  font: "always_on_top"
+  id: "life"
+  pivot: PIVOT_W
+  inherit_alpha: true
+}
+nodes {
+  position {
+    x: 81.0
+    y: 1222.0
+  }
+  scale {
+    x: 8.583444
+    y: 8.487792
+    z: 2.266667
+  }
+  size {
+    x: 200.0
+    y: 100.0
+  }
+  color {
+    y: 0.0
+    z: 0.0
+  }
+  type: TYPE_TEXT
+  text: "GET WINGS"
+  font: "always_on_top"
+  id: "text"
+  pivot: PIVOT_W
+  inherit_alpha: true
+}
+material: "/builtins/materials/gui.material"
+adjust_reference: ADJUST_REFERENCE_PARENT

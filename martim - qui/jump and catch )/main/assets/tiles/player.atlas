@@ -1,0 +1,13 @@
+images {
+  image: "/main/assets/sprites/Enemy.png"
+}
+images {
+  image: "/main/assets/sprites/Item.png"
+}
+images {
+  image: "/main/assets/sprites/player 508x491.png"
+}
+images {
+  image: "/main/assets/sprites/grass_.png"
+}
+extrude_borders: 2
